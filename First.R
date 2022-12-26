@@ -6,3 +6,6 @@ d
 e <- a**c - b
 e
 rm(list=ls())
+f <-4
+g<- exp(f)
+g
